@@ -6,5 +6,7 @@
     </label>
 </template>
 
-<script src="../components-implementation/place-input.js">
+<script>
+import placeWindow from '../components-implementation/place-input.js'
+export default placeWindow
 </script>

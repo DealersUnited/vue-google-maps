@@ -3,5 +3,5 @@ node_modules
 examples/dist
 examples/vue-google-maps.js
 .idea
-dist
+dist/
 .npmrc
