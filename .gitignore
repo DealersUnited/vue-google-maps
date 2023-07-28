@@ -4,3 +4,4 @@ examples/dist
 examples/vue-google-maps.js
 .idea
 dist
+.npmrc
